@@ -6,11 +6,11 @@ Some nice examples:
 
 Kosovo and Montenegro
 
-![Montenegro registered with Kosovo](images/kosovo-montenegro.png)
+![Montenegro registered with Kosovo](images/kosovo-montenegro.PNG)
 
 Saint Lucia and Sri Lanka
 
-![Sri Lanka registered with Montenegro](images/saint-lucia-sri-lanka.png)
+![Sri Lanka registered with Montenegro](images/saint-lucia-sri-lanka.PNG)
 
 ## Example Usage
 
